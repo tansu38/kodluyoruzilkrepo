@@ -17,7 +17,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
 # Usage
 ----------------------------
-Projeyi cloneladıktan sonra Visual Code prgramında açınız.
+Projeyi cloneladıktan sonra Visual Code programında açınız.
 
 Linux için:
 
